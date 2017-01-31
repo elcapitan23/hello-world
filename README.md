@@ -2,4 +2,4 @@
 Just starting out GitHub and doing this tutorial
 
 
-I love Mexican food. I enjoy traveling and the outdoors.
+I love computers. I also enjoy traveling and the outdoors.
